@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.local
+
+# Runtime
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Test
+coverage/
